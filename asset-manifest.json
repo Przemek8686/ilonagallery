@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Przemek8686/ilonagallery/static/css/main.40f735dd.css",
-    "main.js": "/Przemek8686/ilonagallery/static/js/main.61722066.js",
-    "index.html": "/Przemek8686/ilonagallery/index.html",
-    "main.40f735dd.css.map": "/Przemek8686/ilonagallery/static/css/main.40f735dd.css.map",
-    "main.61722066.js.map": "/Przemek8686/ilonagallery/static/js/main.61722066.js.map"
+    "main.css": "/ilonagallery/static/css/main.40f735dd.css",
+    "main.js": "/ilonagallery/static/js/main.e50f85ae.js",
+    "index.html": "/ilonagallery/index.html",
+    "main.40f735dd.css.map": "/ilonagallery/static/css/main.40f735dd.css.map",
+    "main.e50f85ae.js.map": "/ilonagallery/static/js/main.e50f85ae.js.map"
   },
   "entrypoints": [
     "static/css/main.40f735dd.css",
-    "static/js/main.61722066.js"
+    "static/js/main.e50f85ae.js"
   ]
 }
